@@ -1,0 +1,20 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <title>Re-retrying the week 4 assignment</title>
+        <meta name="viewport" content="width=device-width, initial-sclae=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Ranchers&display=swap" rel="stylesheet">
+        <link href="styles/main.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div>
+            <p>This is content in a paragraph tag inside a div with <span>some text</span> in a <span>span tag</span></p>
+        </div>
+        <p>This is content in a paragraph tag with <span>some text</span>span> in a <span>spantag</span></p>
+    
+        <img src="images/OIP.dfONuAsK9U413-lXLGAFywHaE7.jpeg" alt="mountain">
+       
+        
+        
+    </body>                                   
+</html>
